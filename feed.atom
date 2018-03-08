@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
-  <id>カメココログのRSS Feed</id>
+  <id>jpturtleinfo's RSS Feed</id>
   <link type="text/html" rel="alternate" href="https://jpturtleinfo.github.io/html/terms_of_service.html"/>
-  <link type="application/atom+xml" rel="self" href="https://github.com/jpturtleinfo/jpturtleinfo.github.io/feed.atom"/>
-  <title>Recent Commits to jpturtleinfo.github.io:master</title>
+  <link type="application/atom+xml" rel="self" href="https://jpturtleinfo.github.io/feed.atom"/>
+  <title>カメココログのRSS Feed</title>
   <updated>2018-03-07T15:13:49Z</updated>
 
   <entry>
