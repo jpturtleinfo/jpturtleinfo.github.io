@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
   <id>カメココログのRSS Feed</id>
   <link type="text/html" rel="alternate" href="https://jpturtleinfo.github.io/html/terms_of_service.html"/>
-  <link type="application/atom+xml" rel="self" href="https://github.com/jpturtleinfo/jpturtleinfo.github.io/feed.atom"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/jpturtleinfo/jpturtleinfo.github.io/test.atom"/>
   <title>Recent Commits to jpturtleinfo.github.io:master</title>
   <updated>2018-03-07T15:13:49Z</updated>
 
   <entry>
     <id>002</id>
-    <link type="text/html" rel="alternate" href="https://jpturtleinfo.github.io/commit/da43bc84fcd492c2579361fac260cf378c8504a3"/>
+    <link type="text/html" rel="alternate"/>
     <title>
         RSS配信始めました
     </title>
@@ -24,7 +24,7 @@
   </entry>
   <entry>
     <id>001</id>
-    <link type="text/html" rel="alternate" href="https://jpturtleinfo.github.io/commit/e3bc1ae28c03780fb3416db56b996fbdd17502cc"/>
+    <link type="text/html" rel="alternate"/>
     <title>
         カメココログ始動!!
     </title>
